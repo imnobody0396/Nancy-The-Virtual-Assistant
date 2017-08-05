@@ -1,8 +1,6 @@
 Nancy: The Virtual Assistant (For Ubuntu)
 =
 # Nancy-VA--Ubuntu
-Nancy: The Virtual Assistant (For Ubuntu)
-* [Youtube Playlist](https://www.youtube.com/watch?v=a3FKjVu_iCg&list=PLgye9ZR9-GhhKttmlMajOvYIXtHs-__Xq)
 
 ## Team Name
 ```
