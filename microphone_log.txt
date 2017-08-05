@@ -1,0 +1,1262 @@
+2017-02-03 13:34:20.008424 open folder hindi mix
+2017-02-03 13:34:33.039530 open folder hindi
+2017-02-03 13:35:12.178773 open folder hindi mix
+2017-02-03 13:35:32.225893 open folder mix
+2017-02-03 13:36:35.837701 open folder hindi 
+2017-02-03 13:36:53.534383 open folder hindi m
+2017-02-03 13:37:26.742816 open green drive
+2017-02-03 13:37:39.368114 open folder cold light
+2017-02-03 13:37:59.768167 open photo suicide squad
+2017-02-03 13:38:10.387080 open folder suicide squad
+2017-02-03 13:40:08.939475 open folder hindi mix
+2017-02-03 13:40:51.270359 execute terminal
+2017-02-03 13:52:28.094619 play audio dekh lena
+2017-02-03 13:53:10.253723 play audio naina dangal
+2017-02-03 13:54:39.319208 open folder hindi mix
+2017-02-03 13:56:48.880865 execute terminal
+2017-02-03 18:00:12.205739 download video naina
+2017-02-03 18:03:02.885135 play video naina
+2017-02-03 18:03:16.148431 download video naina
+2017-02-03 18:22:31.503210 play audio dekh lena
+2017-02-03 18:23:14.635957 execute python
+2017-02-03 19:27:11.753577 execute python
+2017-02-03 19:28:13.326244 who are you
+2017-02-03 19:28:23.498116 describe yourself
+2017-02-03 19:28:47.620289 play audio dekh lena
+2017-02-03 19:28:59.762718 open folder hindi mix
+2017-02-03 19:29:45.667304 browse saavn.com
+2017-02-03 19:30:05.060300 pressure in jaipur
+2017-02-03 19:30:17.112039 temperature in jaipur
+2017-02-03 19:30:37.664079 meaning of procrastinate
+2017-02-03 19:31:12.682510 didn't get you
+2017-02-03 19:31:21.163004 coin
+2017-02-03 19:31:32.479437 toss a coin
+2017-02-03 19:31:41.449844 toss a coin
+2017-02-03 19:31:43.741062 toss a coin
+2017-02-03 19:31:54.067474 throw a dice
+2017-02-03 19:32:04.593106 throw a dice
+2017-02-03 19:32:07.974894 throw a dice
+2017-02-03 19:32:11.294513 throw a dice
+2017-02-03 19:32:13.491097 throw a dice
+2017-02-03 19:32:42.950223 download lyrics rap god
+2017-02-04 04:43:56.924001 play audio dekh lena
+2017-02-04 04:44:09.753540 play audio dekh lena $EXPECTED$
+2017-02-04 05:23:30.692062 one folder music
+2017-02-04 05:33:02.082853 one folder music
+2017-02-04 05:53:03.970155 one folder music
+2017-02-04 05:53:19.236376 open folder videos
+2017-02-04 06:06:58.574992 download video india win
+2017-02-04 06:07:24.302779 didn't get you
+2017-02-04 08:32:15.783285 play video
+2017-02-04 08:32:26.579094 play video of ms dhoni
+2017-02-04 08:32:56.964212 play video dhoni
+2017-02-04 08:33:39.621705 play video dhoni
+2017-02-04 08:33:48.503504 play video ms dhoni
+2017-02-04 08:34:12.819410 play video ms dhoni
+2017-02-05 15:03:22.641034 didn't get you
+2017-02-05 15:03:34.850913 open folder music
+2017-02-05 16:11:19.615679 execute terminal
+2017-02-05 16:11:33.227584 didn't get you
+2017-02-05 16:11:44.089850 execute python
+2017-02-05 17:58:40.837994 play video dekh lena
+2017-02-05 18:12:40.547079 open folder videos
+2017-02-05 18:24:44.662995 free cute python
+2017-02-05 18:24:55.878901 free cute python
+2017-02-05 18:25:06.726907 execute python
+2017-02-05 19:10:32.670510 radio bar graph
+2017-02-05 19:10:50.851850 play video baba rahman
+2017-02-05 19:11:00.016723 play video bawara
+2017-02-05 19:11:59.557142 execute python
+2017-02-05 19:12:25.508519 play audio bawara man
+2017-02-05 19:12:43.826477 bawara man $EXPECTED$
+2017-02-05 19:12:44.395639 bawara man $EXPECTED$
+2017-02-05 19:13:03.329734 open folder nancy
+2017-02-05 19:13:11.093691 open folder nancy-t
+2017-02-05 19:14:24.978963 open folder videos
+2017-02-05 19:16:59.453331 play video fifty shades
+2017-02-05 19:22:08.899496 execute python
+2017-02-05 19:23:32.650662 gmail
+2017-02-05 19:23:37.519775 browse gmail
+2017-02-05 19:23:48.819946 browse gmail
+2017-02-05 19:24:09.090500 browse gmail
+2017-02-05 19:25:40.417431 browse gmail
+2017-02-05 19:27:47.659225 browse google
+2017-02-05 19:31:41.021773 browse fb
+2017-02-05 19:32:29.430545 browse fb
+2017-02-05 19:35:07.571568 browse spanker
+2017-02-05 19:40:09.123165 browse github
+2017-02-05 19:41:24.508894 browse fb
+2017-02-05 19:42:51.059904 execute python
+2017-02-05 19:50:46.607370 google maps is awesome
+2017-02-05 20:13:10.819093 open folder new python
+2017-02-06 02:01:40.766713 open folder music
+2017-02-06 02:02:04.502251 open file microphone_log
+2017-02-06 02:02:40.781835 open file microphone_log
+2017-02-06 02:02:59.047590 open file microphone
+2017-02-06 02:03:14.268135 open file microphone_log
+2017-02-06 02:03:49.325057 open file microphone_log
+2017-02-06 02:04:24.363162 browse saavn.com
+2017-02-06 03:21:37.142678 download video koshish krne waalo ki kbhi haar nhi hoti amitabh bachan
+2017-02-06 03:21:54.156416 open folder music
+2017-02-06 04:18:13.104011 didn't get you
+2017-02-06 04:18:26.994091 browse prezi
+2017-02-06 04:56:44.592146 didn't get you
+2017-02-06 04:57:00.448370 download video amazon go
+2017-02-06 06:51:25.552813 didn't get you
+2017-02-06 06:51:36.148103 house whatsapp
+2017-02-06 06:51:42.533974 browse whatsapp
+2017-02-06 06:58:35.570377 execute python
+2017-02-06 07:23:11.006405 play audio dekh lena
+2017-02-06 07:23:47.034639 play video dekh lena
+2017-02-06 07:24:30.616591 open folder music
+2017-02-06 07:24:48.788421 open drive green
+2017-02-06 07:25:03.936131 open file requirement
+2017-02-06 07:25:56.782069 open file requirement
+2017-02-06 07:26:09.552047 open file requirements
+2017-02-06 07:26:22.833836 play audio dekh lena
+2017-02-06 07:45:11.544411 play audio dekh lena
+2017-02-06 07:45:16.307452 play audio dekh lena
+2017-02-06 07:45:33.644876 play audio dekh lena
+2017-02-06 07:46:58.272190 browse prezi
+2017-02-06 12:03:01.836143 browse google
+2017-02-06 12:03:55.909598 browse google
+2017-02-06 12:04:41.136677 browse google
+2017-02-06 12:27:11.519751 play audio bawara
+2017-02-06 12:27:24.339020 play audio bawara man
+2017-02-06 12:28:06.332067 barbara
+2017-02-06 12:28:16.806434 play audio bawara man
+2017-02-06 14:28:20.906359 play audio bawar
+2017-02-07 06:46:19.659826 execute pycharm
+2017-02-07 06:49:52.236806 browse github
+2017-02-07 07:03:55.487120 execute python
+2017-02-07 07:07:58.773739 browse youtube
+2017-02-07 13:15:53.664895 execute python
+2017-02-07 15:44:26.197495 execute python
+2017-02-07 15:47:44.672652 google valentine day story
+2017-02-07 16:54:28.707171 didn't get you
+2017-02-07 21:07:01.688164 play audio bawara man
+2017-02-09 06:59:30.825525 play audio bawara
+2017-02-09 07:00:10.494709 play audio bawara
+2017-02-09 07:00:22.152023 play audio bawara
+2017-02-09 07:00:51.289519 didn't get you
+2017-02-09 08:31:05.062102 play audio haan kargi
+2017-02-09 12:34:30.584639 didn't get you
+2017-02-09 12:34:42.270653 whatsapp
+2017-02-09 12:34:52.913177 whatsapp
+2017-02-09 12:35:01.991869 how is whatsapp
+2017-02-09 12:35:13.582734 how is whatsapp
+2017-02-09 12:35:22.955688 whatsapp
+2017-02-09 12:35:36.467757 facebook
+2017-02-09 12:35:48.845939 facebook
+2017-02-09 12:36:12.767365 didn't get you
+2017-02-09 12:36:27.276588 browse facebook
+2017-02-09 12:39:07.537865 cute person
+2017-02-09 12:39:19.585700 python
+2017-02-09 12:39:24.321439 execute python
+2017-02-10 08:05:36.796323 didn't get you
+2017-02-10 08:07:13.909780 download video rockbay
+2017-02-10 12:49:27.892788 open folder music
+2017-02-10 17:03:51.167501 didn't get you
+2017-02-12 09:19:47.311966 play audio dekh lena
+2017-02-12 09:20:08.762175 play audio dekh lena
+2017-02-12 16:45:09.764436 play video jolly
+2017-02-12 16:45:43.013303 play video jolly llb
+2017-02-12 16:45:53.701022 play video html
+2017-02-12 16:46:18.021828 play video html
+2017-02-12 16:46:24.663012 play video html
+2017-02-12 16:46:44.468436 play video ms dhoni
+2017-02-15 14:17:03.525953 play audio bawara
+2017-02-15 14:53:32.996536 didn't get you
+2017-02-15 14:53:42.647677 python
+2017-02-15 14:53:57.481574 execute python
+2017-02-16 21:30:50.622746 play audio pehli dafa
+2017-02-16 21:35:26.331662 play audio dekh lena
+2017-02-18 03:38:30.824458 didn't get you
+2017-02-18 03:38:41.131419 describe yourself
+2017-02-18 03:41:58.809277 open folder music
+2017-02-18 03:42:33.643290 older music
+2017-02-18 03:42:40.924956 open folder music
+2017-02-18 03:43:11.353736 download video radioactive
+2017-02-18 03:44:32.242972 execute python
+2017-02-18 03:46:11.138741 general terms in salute bolti wala gana chahiye
+2017-02-18 03:46:22.482965 name of ganga
+2017-02-18 03:46:33.710707 audio naina
+2017-02-18 03:46:45.339491 play audio naina
+2017-02-18 03:47:03.260202 video
+2017-02-18 03:47:13.344745 play video gana
+2017-02-18 03:47:21.692500 play video naina
+2017-02-18 03:51:50.653967 download video naina
+2017-02-18 03:54:13.145058 provide facility to share the project can we share the project from the side
+2017-02-18 03:55:26.636425 download lyrics faded
+2017-02-18 03:57:57.362774 lyrics reason
+2017-02-18 03:58:08.495988 download lyrics reason
+2017-02-18 03:59:15.316762 download video gana
+2017-02-18 03:59:45.441668 nahi
+2017-02-18 03:59:56.833177 video9
+2017-02-18 04:00:06.235260 download video naina
+2017-02-18 04:00:57.494790 download video naina
+2017-02-18 04:04:20.522298 cute python
+2017-02-18 04:04:36.430540 python
+2017-02-18 04:04:41.026601 execute python
+2017-02-18 04:05:12.845419 open file in result
+2017-02-18 04:05:17.111088 open file result
+2017-02-18 04:05:35.189614 open file result.xlsx
+2017-02-18 04:06:16.051424 file requirement
+2017-02-18 04:06:40.791723 open file requirements
+2017-02-19 05:41:26.789110 download audio teri sohbat mein
+2017-02-19 05:41:35.495232 download audio teri sohbat mein
+2017-02-23 02:35:15.455845 play audio mere nisha
+2017-02-23 16:06:22.206242 older music
+2017-02-23 16:06:30.237417 open folder music
+2017-02-23 16:06:41.576185 open folder music
+2017-02-23 16:06:56.399107 open folder music
+2017-03-13 07:05:57.636806 browse fb
+2017-03-18 13:15:49.402329 play audio
+2017-03-18 13:16:23.991328 terminate
+2017-03-18 13:16:48.938050 didn't get you
+2017-03-18 13:17:00.236349 play audio haanika
+2017-03-28 05:29:09.876072 download audio roobaroo rang de basanti
+2017-04-01 08:20:07.542351 download audio song aasmano se
+2017-04-01 08:20:40.625288 download audio song aasmano se
+2017-04-01 08:20:58.094500 download audio sau aasmano se
+2017-04-01 08:21:26.948204 didn't get you
+2017-04-01 08:21:54.517153 download audio so aasmano se
+2017-04-01 08:22:52.504769 audio sau aasmano se baar baar dekho
+2017-04-01 08:23:10.867833 download audio song aasmano se baar baar dekho
+2017-04-01 08:23:23.635669 download audio sau aasmano se baar baar dekho
+2017-04-01 08:24:55.941002 baar baar dekho
+2017-04-01 08:25:09.051197 download audio so aasmaan baar baar dekho
+2017-04-01 08:26:15.875511 download perfect
+2017-04-07 05:44:20.891070 didn't get you
+2017-04-07 05:44:35.806325 distributor
+2017-04-07 05:44:56.700444 didn't get you
+2017-04-07 05:45:09.696239 distributor
+2017-04-07 05:45:29.944033 didn't get you
+2017-04-07 05:45:44.616487 download audio humsafar
+2017-04-07 05:47:05.306404 play audio humsafar
+2017-04-07 05:47:46.409655 didn't get you
+2017-04-07 05:48:26.310484 didn't get you
+2017-04-07 05:48:40.922862 didn't get you
+2017-04-07 05:49:11.752573 didn't get you
+2017-04-07 05:49:24.515578 play audio humsafar
+2017-04-07 05:50:22.976039 play audio humsafar
+2017-04-07 05:50:42.096849 play audio humsafar
+2017-04-07 05:51:24.878538 download lyrics shape of you
+2017-04-07 05:52:10.907941 play audio humsafar
+2017-04-07 05:52:27.444196 play audio humsafar.mp3
+2017-04-07 05:52:55.893393 open folder music
+2017-04-07 05:53:52.493525 audio pack
+2017-04-07 05:54:04.330059 didn't get you
+2017-04-07 05:54:24.732925 play audio backbone
+2017-04-07 05:55:05.829873 play video naina
+2017-04-07 05:55:29.664585 play video naina
+2017-04-07 05:56:10.601577 open file aadhar
+2017-04-07 05:56:37.571604 didn't get you
+2017-04-07 05:56:59.063067 open file aadhar.jpg
+2017-04-07 05:57:20.273231 execute lock
+2017-04-07 05:57:39.119249 browse fb
+2017-04-07 05:58:42.961734 play video roke na ruke naina
+2017-04-07 05:58:53.737132 download video roke na ruke naina
+2017-04-07 06:02:31.327111 download audio sahiba philauri
+2017-04-07 06:04:20.879271 play audio sahiba
+2017-04-07 06:04:53.578431 play video suicide
+2017-04-07 06:05:05.234666 play video suicide squad
+2017-04-07 06:05:12.374737 play video suicide.squad
+2017-04-07 06:05:24.395096 play video suicide
+2017-04-07 06:05:41.133817 google convergence
+2017-04-07 06:06:17.115700 google poornima
+2017-04-07 06:07:01.209314 google nancy
+2017-04-07 06:07:21.888825 google nancy github
+2017-04-07 06:07:46.307075 google technovendors nancy github
+2017-04-07 06:08:43.234126 Select Commanddescribe yourself
+2017-04-07 06:14:28.293593 download lyrics breathless
+2017-04-07 06:15:39.216788 execute system monitor
+2017-04-07 06:16:19.735734 browse gmail
+2017-04-07 06:16:38.536012 browse gmail
+2017-04-07 06:17:02.470968 browse fb
+2017-04-07 06:17:29.944699 download video naina
+2017-04-07 06:18:25.345074 open file microphone_log
+2017-04-07 06:18:31.452791 open file microphone_log
+2017-04-07 06:19:02.623407 open file requirements
+2017-04-07 06:19:09.936548 open file requirements
+2017-04-07 06:22:49.460344 play audio humsafar
+2017-04-07 06:23:19.022303 play audio sahiba
+2017-04-07 06:25:12.811423 open folder music
+2017-04-07 06:26:07.823885 play audio roobaroo
+2017-04-07 06:46:15.426352 open folder music
+2017-04-07 06:46:28.546680 play audio dariya
+2017-04-07 06:46:52.150179 download audio channa mereya
+2017-04-07 06:48:32.264231 open folder MUSIC
+2017-04-07 06:48:39.623750 open folder music
+2017-04-07 06:49:19.131059 download video channa mereya
+2017-04-07 06:52:00.194588 download lyrics stan
+2017-04-07 06:52:31.742686 download lyrics stan
+2017-04-07 06:55:21.988685 Select Commandtemperature in jaipur
+2017-04-07 06:57:32.736957 execute lock
+2017-04-07 07:03:03.149149 play audio amplifier
+2017-04-07 07:05:42.535544 play audio zaalima
+2017-04-07 07:06:44.236830 download video tamma tamma
+2017-04-07 07:09:43.433696 play audio amplifier
+2017-04-07 07:10:08.492490 play video suicide
+2017-04-07 07:10:17.685309 play video suicide
+2017-04-07 07:10:30.732117 play video suicide
+2017-04-07 07:12:06.641130 execute lock
+2017-04-07 07:12:58.206028 download lyrics lighters
+2017-04-07 07:17:08.767665 play audio dariya
+2017-04-07 07:17:40.837811 download audio dariya
+2017-04-07 07:18:31.908168 download video dariya
+2017-04-07 07:29:24.035384 open folder music
+2017-04-07 07:30:34.109877 play audio dariya
+2017-04-07 07:31:09.158303 download lyrics cheap thrills
+2017-04-08 13:54:21.748329 hey audio basic
+2017-04-08 13:54:41.292645 play audio besabriyan
+2017-04-08 13:54:55.091626 open folder music
+2017-04-14 16:30:32.184469 download video mana k hum yaar nahin
+2017-04-14 16:36:00.672585 parineeti chopra
+2017-04-14 16:36:30.961817 download video of mana ke hum yaar nahi parineeti chopra
+2017-04-15 06:07:22.324396 didn't get you
+2017-04-15 06:07:34.177779 open folder wallpaper
+2017-04-15 06:07:46.975825 open folder wallpapers
+2017-04-15 06:08:24.039165 open folder videos
+2017-04-15 06:08:31.808179 open folder cars
+2017-04-15 06:08:32.710076 open folder cars
+2017-04-15 06:08:47.144345 open folder scwp
+2017-04-15 06:09:03.259392 open folder scwp
+2017-04-15 06:09:19.176018 open folder music
+2017-04-15 06:09:42.605056 open folder wallpap
+2017-04-15 06:09:51.998704 open folder wallpaper
+2017-04-15 06:09:59.120811 open folder scwp
+2017-04-15 06:10:13.645609 open folder cars
+2017-04-15 06:10:14.474214 open folder cars
+2017-04-15 06:10:52.648661 open folder holly
+2017-04-15 06:11:14.666741 open folder sports
+2017-04-15 06:11:30.602078 open folder car
+2017-04-15 06:11:49.355024 open file raghav.pdf
+2017-04-15 06:13:47.956638 open file raghav.pdf
+2017-04-15 06:14:53.125689 open file raghav.pdf
+2017-04-15 06:16:10.794636 open file raghav
+2017-04-15 06:16:52.169207 open file banner
+2017-04-15 06:16:58.197302 open file banner.png
+2017-04-15 06:17:25.633221 open drive green
+2017-04-15 06:19:00.614889 open folder Seminar
+2017-04-15 06:19:26.749843 open folder seminar
+2017-04-15 06:19:40.663149 open folder bangon
+2017-04-15 06:24:40.678620 open folder seminar
+2017-04-15 06:24:54.488325 open file raghav.pdf
+2017-04-15 06:25:07.906054 open file raghav
+2017-04-15 06:25:23.514290 open file raghavrev
+2017-04-15 06:25:43.936254 open file AccDe
+2017-04-15 06:25:54.890194 open file Aadhar
+2017-04-15 06:26:27.139299 open file aadhar.jpg
+2017-04-15 06:26:35.815358 open file AccD
+2017-04-15 06:27:03.228587 open file bang
+2017-04-15 06:27:11.708881 open file bangon_lo
+2017-04-15 06:27:24.239087 open folder seminar
+2017-04-15 06:27:45.771468 download lyrics cold water
+2017-04-15 06:28:24.340443 download audio mana k hum yaar nahin parineeti chopra
+2017-04-15 06:34:12.829861 open folder music
+2017-04-15 06:34:24.199199 open folder music
+2017-04-15 06:36:09.661774 download video sbi po preparation
+2017-04-15 06:36:55.654287 download audio channa mereya
+2017-04-15 06:38:45.428823 open folder music
+2017-04-16 01:07:22.281845 play video mana k hum yaar nahin parineeti chopra
+2017-04-16 01:07:33.398990 download video mana k hum yaar nahin parineeti chopra
+2017-04-16 01:08:43.249617 download video mana k hum yaar nahin parineeti chopra officiAL
+2017-04-16 01:09:30.771394 open youtube
+2017-04-16 01:09:41.844111 browse youtube
+2017-04-16 01:23:59.442636 play audio roke na ruke
+2017-04-16 01:24:09.395073 play audio roke na
+2017-04-16 01:24:10.832603 play audio roke na
+2017-04-16 01:24:19.884003 open folder music
+2017-04-16 01:24:34.647827 open folder roke na ruke
+2017-04-16 01:24:47.815140 download audio roke na ruke naina
+2017-04-16 01:27:57.965723 download video
+2017-04-16 01:28:13.325157 download audio roki na ruke naina badrinath ki dulhania
+2017-04-16 01:28:41.147555 play audio ruke na ruke
+2017-04-16 01:28:46.023716 play audio roke na ruke
+2017-04-16 01:29:41.064578 viru ke samne hoga
+2017-04-16 01:29:54.709420 open folder music
+2017-04-16 01:41:23.180133 download audio mana k hum yaar nahin parineeti chopra
+2017-04-16 01:43:29.603628 download audio jaane nahin denge tujhe 3 idiots
+2017-04-16 01:43:57.197649 play audio jaane nahin denge
+2017-04-16 01:58:54.602936 download video baarish half girlfriend
+2017-04-16 01:59:54.041105 download video half girlfriend official trailer
+2017-04-16 02:03:19.773339 download video half girlfriend official trailer
+2017-04-16 02:05:15.260342 download video jeetne k liye azhar
+2017-04-16 02:08:37.949951 download video half girlfriend trailer
+2017-04-16 10:30:29.869788 download video half girlfriend official trailer
+2017-04-16 10:40:41.442578 official trailer
+2017-04-16 10:40:55.207197 download video of ganpati
+2017-04-16 10:43:21.150493 didn't get you
+2017-04-16 10:43:59.455186 half girlfriend official trailer
+2017-04-16 10:44:07.239934 download video half girlfriend official trailer
+2017-04-16 10:47:15.942400 download video hyperloop hyderabad
+2017-04-16 10:53:42.043886 download video half girlfriend official trailer
+2017-04-16 10:56:24.348323 play video half girlfriend
+2017-04-16 11:03:48.674361 download video bb ki vines
+2017-04-16 11:04:33.454241 download video nigga nigga nigga
+2017-04-16 11:11:14.582583 browse xvideos
+2017-04-17 17:44:17.698653 google blood money album
+2017-04-17 17:44:50.361737 didn't get you
+2017-04-17 17:45:05.222183 audio jo tere sang blood money
+2017-04-17 17:45:15.004542 download audio jo tere sang blood money
+2017-04-17 17:45:43.916711 download audio jo tere sang blood money
+2017-04-19 03:30:43.175706 play audio roke na
+2017-04-19 03:31:11.943573 play video dangal
+2017-04-19 03:31:33.710884 download audio baarish half girlfriend
+2017-04-19 03:32:41.531795 play audio baarish
+2017-04-19 03:32:53.169204 play audio baarish( half
+2017-04-19 03:32:58.109317 play audio baarish half
+2017-04-19 03:33:03.211581 play audio baarish(half
+2017-04-19 03:33:07.264886 play audio baarish( half
+2017-04-19 03:33:12.260536 play audio baarish ( half
+2017-04-19 03:33:16.106099 play audio baarish (half
+2017-04-19 03:33:31.234640 download video baarish half girlfriend
+2017-04-19 03:35:15.144086 open file raghavreview
+2017-04-19 03:35:30.510563 open folder music
+2017-04-19 03:35:41.864926 open drive blue
+2017-04-19 03:35:56.726004 execute lock
+2017-04-19 03:36:15.718037 browse youtube
+2017-04-19 03:36:55.432927 temperature in jaipur
+2017-04-19 03:37:17.751845 meaning of sex
+2017-04-19 03:37:47.450589 open file microphone_log
+2017-04-19 03:38:17.565272 open folder document
+2017-04-19 03:39:28.456550 open file microphone_log
+2017-04-19 03:39:37.778997 open file requirements
+2017-04-19 03:40:42.473281 play audio baarish (ha
+2017-04-19 03:41:24.024981 open folder or district
+2017-04-19 03:41:43.101811 open folder artistic
+2017-04-19 03:44:45.015256 google creative diary
+2017-04-19 04:00:45.902100 play audio baarish
+2017-04-19 04:01:07.812684 play audio barish
+2017-04-19 04:01:12.463515 play audio baarish
+2017-04-19 04:01:50.542811 google baarish
+2017-04-19 04:03:42.563709 open file raghav.pdf
+2017-04-19 04:03:57.785515 open file raghavrevie
+2017-04-19 04:10:25.753158 open file microphone_log
+2017-04-19 04:24:57.129742 open file requirements
+2017-04-20 08:17:35.256801 play audio mana k hum yaar nahin
+2017-04-20 08:17:42.662694 play audio mana ke hum yaar nahin
+2017-04-20 08:17:51.006956 play video mana ke hum yaar nahin
+2017-04-20 08:17:59.274210 play video maana ke hum yaar nahin
+2017-04-20 12:35:24.808554 play video 
+2017-04-20 12:36:12.095936 play video logan
+2017-04-23 04:18:15.048290 play video maana ke hum
+2017-04-23 04:19:30.684649 play video maana ke hum
+2017-04-27 05:32:45.525062 browse whatsapp
+2017-05-01 17:07:23.145867 browse gmail
+2017-05-01 17:07:34.405489 browse gmail
+2017-05-01 17:08:09.815514 browse gmail
+2017-05-07 03:44:28.601439 facebook
+2017-05-07 03:44:42.035828 trolls facebook
+2017-05-07 03:44:49.057746 browse facebook
+2017-05-09 04:49:23.137639 download audio ab phir se jab barish hogi
+2017-05-09 04:50:29.650737 download audio ab phir se jab barish hogi
+2017-05-09 04:51:46.384733 play audio ab phirse jab baarish
+2017-05-10 15:02:07.119664 didn't get you
+2017-05-10 15:02:22.487245 rahul facebook
+2017-05-10 15:02:37.848184 browse facebook
+2017-05-12 09:19:46.564382 who are you
+2017-05-12 09:20:05.741532 describe yourself
+2017-05-12 09:24:25.185607 download audio ab phirse jab baarish
+2017-05-12 09:24:38.180615 download audio ab phirse jab baarish
+2017-05-12 09:25:35.440077 play audio ab phirse jab baarish
+2017-05-12 09:25:47.560199 play audio ab phirse jab baarish
+2017-05-12 09:26:03.255875 open folder music
+2017-05-12 09:26:08.000693 open folder music
+2017-05-12 09:26:31.019727 open folder music
+2017-05-12 09:26:48.604680 audio ab phir se jab barish
+2017-05-12 09:27:03.640194 play audio ab phirse jab baarish
+2017-05-12 09:28:14.689297 browse facebook
+2017-05-12 09:31:41.078983 browse 7
+2017-05-12 09:31:50.230162 browse saavn
+2017-05-12 09:34:49.619471 cute python
+2017-05-12 09:34:56.296679 execute python
+2017-05-14 04:50:31.250438 hello world
+2017-05-14 04:53:16.988329 execute lock
+2017-05-14 04:54:09.750849 open folder music
+2017-05-14 05:03:07.618047 terminate
+2017-05-14 05:03:27.805962 didn't get you
+2017-05-14 05:03:41.706698 didn't get you
+2017-05-14 05:03:56.357387 hello world
+2017-05-14 05:04:38.138603 terminate
+2017-05-14 05:06:03.987798 open green drive
+2017-05-14 05:06:17.265927 open folder
+2017-05-14 05:06:27.653397 open folder music
+2017-05-14 05:06:37.348025 play audio humsafar
+2017-05-14 05:06:49.527780 didn't get you
+2017-05-14 05:07:07.809777 open folder hindi mix
+2017-05-14 05:07:35.076110 terminate
+2017-05-14 05:09:16.676628 exit
+2017-05-14 05:09:39.773731 terminate
+2017-05-14 05:35:07.125923 browse facebook
+2017-05-14 05:35:21.462493 terminate
+2017-05-14 05:36:26.024868 dolls google
+2017-05-14 05:37:44.722745 voice google
+2017-05-14 05:37:58.224889 browse google
+2017-05-14 05:38:05.909267 browse google
+2017-05-14 05:38:11.880906 browse google
+2017-05-14 05:38:18.875694 browse google
+2017-05-14 05:38:25.411168 browse google
+2017-05-14 05:45:35.557783 execute python
+2017-05-14 05:45:45.204336 terminate
+2017-05-14 06:07:25.343724 play audio barish
+2017-05-14 06:07:37.574785 play audio barish
+2017-05-14 06:07:47.517461 open folder music
+2017-05-14 06:07:56.085166 play audio dekh lena
+2017-05-14 06:08:12.908893 terminate
+2017-05-14 06:10:22.644672 open facebook
+2017-05-14 06:10:47.604971 didn't get you
+2017-05-14 06:11:00.313435 didn't get you
+2017-05-14 06:17:47.360986 open folder music
+2017-05-14 06:17:58.507053 didn't get you
+2017-05-14 06:18:20.011613 didn't get you
+2017-05-14 06:18:37.624876 browse google
+2017-05-14 06:19:40.580001 google how to stop and pause unix program
+2017-05-14 06:19:52.109107 didn't get you
+2017-05-14 06:20:06.216104 bengal
+2017-05-14 06:20:39.338626 didn't get you
+2017-05-14 06:20:52.732238 hello
+2017-05-14 06:21:04.013486 play audio
+2017-05-14 06:21:21.414401 terminate
+2017-05-14 06:26:30.757987 play audio hello world
+2017-05-14 06:26:43.069536 play video jungle post
+2017-05-14 06:26:50.883929 didn't get you
+2017-05-14 06:27:21.400246 didn't get you
+2017-05-14 06:27:36.768124 play audio nano
+2017-05-14 06:27:50.191479 play audio gana
+2017-05-14 06:28:05.257515 play audio nano
+2017-05-14 06:28:15.654298 play audio ok
+2017-05-14 06:28:49.238572 didn't get you
+2017-05-14 06:29:33.378305 terminate
+2017-05-14 06:33:30.250763 download audio ik vaari
+2017-05-14 06:35:51.816318 terminate
+2017-05-14 06:36:54.253330 play audio recovery
+2017-05-14 06:37:12.010996 play audio 112
+2017-05-14 06:42:07.407400 toss a coin
+2017-05-14 06:42:17.270756 fruit ice
+2017-05-14 06:42:27.096194 so nice
+2017-05-14 06:42:52.183140 throw a die
+2017-05-14 06:43:01.532697 toss a coin
+2017-05-14 06:43:16.014709 terminate
+2017-05-14 06:43:59.817093 play audio ek wari
+2017-05-14 06:44:11.874323 play audio ik vaari
+2017-05-14 06:44:20.926680 terminate
+2017-05-14 06:45:06.096066 download video ik vaari raabta
+2017-05-14 06:49:48.706463 terminate
+2017-05-14 06:50:26.746838 download audio ik vaari raabta
+2017-05-14 06:54:01.355815 terminate
+2017-05-14 06:56:25.644031 play audio ek baar yaad raftaar
+2017-05-14 06:56:44.841768 golden music
+2017-05-14 06:56:56.768949 open folder music
+2017-05-14 06:57:05.154934 didn't get you
+2017-05-14 08:04:43.122500 browse facebook
+2017-05-14 08:05:01.643546 terminate
+2017-05-14 08:53:23.062483 play audio aquaria
+2017-05-14 08:53:33.806780 play audio ek baar
+2017-05-14 08:53:42.470062 open folder music
+2017-05-14 08:54:29.158680 open folder music
+2017-05-14 08:54:42.194041 deoria
+2017-05-14 08:54:58.991655 didn't get you
+2017-05-14 08:56:31.977412 didn't get you
+2017-05-14 08:56:46.033926 play video
+2017-05-14 08:57:04.811057 community
+2017-05-14 09:09:11.907899 full album
+2017-05-14 09:09:28.653191 lego background
+2017-05-14 09:09:49.179149 lenovo vibe
+2017-05-14 09:10:01.577888 play audio
+2017-05-14 09:10:15.973997 terminate
+2017-05-14 09:10:42.177768 how to stream video on terminal
+2017-05-14 09:10:52.322162 10 minute
+2017-05-14 09:14:29.143619 play audio dekh lena
+2017-05-14 09:15:44.216533 toss a coin
+2017-05-14 09:15:48.605639 toss a coin
+2017-05-14 09:15:52.652008 toss a coin
+2017-05-14 09:15:57.105699 toss a coin
+2017-05-14 09:16:00.789917 toss a coin
+2017-05-14 09:16:04.831358 toss a coin
+2017-05-14 09:16:08.656600 toss a coin
+2017-05-14 09:16:12.593265 toss a coin
+2017-05-14 09:16:16.367582 toss a coin
+2017-05-14 09:16:20.250591 toss a coin
+2017-05-14 09:16:24.310858 toss a coin
+2017-05-14 09:16:28.133904 toss a coin
+2017-05-14 09:16:41.694843 toss a coin
+2017-05-14 09:16:46.751465 toss a coin
+2017-05-14 09:16:50.583723 toss a coin
+2017-05-14 09:17:09.850400 toss a coin
+2017-05-14 09:25:55.659976 stop
+2017-05-14 09:30:14.188336 terminate
+2017-05-14 09:33:15.017963 didn't get you
+2017-05-14 09:34:05.972235 play audio roobaroo
+2017-05-14 09:37:26.255442 p***
+2017-05-14 09:37:58.039746 stop
+2017-05-14 09:39:33.212295 terminate
+2017-05-14 09:43:24.896277 terminate
+2017-05-14 09:43:55.605104 stop
+2017-05-14 09:46:51.794695 didn't get you
+2017-05-14 09:47:37.925463 terminate
+2017-05-14 10:06:24.571061 stop
+2017-05-14 10:07:09.831076 open folder music
+2017-05-14 10:08:08.200719 open folder downloads
+2017-05-14 10:08:27.064783 didn't get you
+2017-05-14 10:10:12.196441 play video tera woh pyar
+2017-05-14 10:10:40.596789 stop
+2017-05-14 10:11:31.176074 terminate
+2017-05-14 12:30:33.878391 play audio phir bhi tumko
+2017-05-14 12:30:45.913968 top
+2017-05-14 12:30:58.585616 didn't get you
+2017-05-14 12:31:12.935019 stop
+2017-05-14 12:39:54.611125 open folder music
+2017-05-14 12:40:02.397673 didn't get you
+2017-05-14 12:40:15.783830 open folder music
+2017-05-14 12:40:24.031186 terminate
+2017-05-14 13:05:25.958417 didn't get you
+2017-05-14 13:05:41.200672 saavn.com
+2017-05-14 13:05:53.583292 drive saavn.com
+2017-05-14 13:06:05.474990 browse saavn.com
+2017-05-14 13:06:19.292718 didn't get you
+2017-05-14 13:06:40.632808 download audio raabta title track
+2017-05-14 13:07:20.771614 play audio raftaar
+2017-05-14 13:07:34.272472 play audio raabta title track
+2017-05-14 13:07:50.340939 open folder music
+2017-05-14 13:07:56.709588 stop
+2017-05-14 13:08:22.206764 stop
+2017-05-14 13:09:10.031125 download audio phir bhi tumko
+2017-05-14 13:10:21.241326 terminate
+2017-05-14 13:12:13.893401 download audio arijit singh
+2017-05-14 13:12:34.201200 download audio arya arijit singh
+2017-05-14 13:12:52.713074 download audio of arya arijit singh
+2017-05-14 13:13:19.828044 download audio arya arijit singh meri pyaari bindu
+2017-05-14 13:14:08.074017 terminate
+2017-05-14 13:22:56.685573 download audio sachin sachin
+2017-05-14 13:25:41.587519 download audio sachin sachin
+2017-05-14 13:26:24.072641 play audio sachin sachin
+2017-05-14 13:26:33.200760 stop
+2017-05-14 13:28:30.802053 terminate
+2017-05-14 13:29:07.744490 download audio hindi marriage in
+2017-05-14 13:29:27.230278 download audio hind marriage in
+2017-05-14 13:29:46.589156 download audio in mere dil
+2017-05-14 13:30:17.965038 didn't get you
+2017-05-14 13:30:30.721830 stop
+2017-05-14 13:31:11.606287 terminate
+2017-05-14 13:35:18.119452 download video with kawariya
+2017-05-14 13:36:17.244983 download video ik vaari
+2017-05-14 13:39:04.629070 download video ik vaari
+2017-05-14 13:40:38.476285 download video ek vaari
+2017-05-14 13:41:09.217981 download video official enquiry raabta
+2017-05-14 13:42:14.680804 download video ek kuwari rohtak
+2017-05-14 13:42:31.522313 download video ik vaari raabta
+2017-05-14 13:43:42.968901 stop
+2017-05-14 13:45:31.304233 execute python
+2017-05-14 13:45:39.910558 terminate
+2017-05-14 13:51:47.904724 download audio hindi marriage in
+2017-05-14 13:52:03.940658 stop
+2017-05-14 13:52:53.521356 download audio merger
+2017-05-14 13:53:29.779612 didn't get you
+2017-05-14 13:53:51.754715 open folder music
+2017-05-14 13:54:04.118486 terminate
+2017-05-14 13:58:04.488483 download video ek bari ja
+2017-05-14 13:58:17.636703 download video ik vaari
+2017-05-14 13:59:38.252132 open folder desktop
+2017-05-14 14:01:44.114546 play video baarish half girlfriend
+2017-05-14 14:02:05.416608 download video barish of girlfriend
+2017-05-14 14:02:26.912630 download video baarish half girlfriend
+2017-05-14 14:04:24.507698 stop
+2017-05-14 14:10:35.262641 play audio 12
+2017-05-14 14:10:50.299425 terminate
+2017-05-14 14:13:00.880709 download audio mercy
+2017-05-14 14:16:37.904283 browse youtube
+2017-05-14 14:16:51.594470 didn't get you
+2017-05-14 14:17:05.198637 stop
+2017-05-14 14:17:20.725493 terminate
+2017-05-14 14:17:31.387694 play audio mercy
+2017-05-14 14:17:44.255419 terminate
+2017-05-14 14:25:21.960662 download audio suno na suno na
+2017-05-14 16:21:35.646434 download audio mere rashke qamar
+2017-05-14 16:22:30.442433 play audio mere rashke qamar
+2017-05-14 16:22:43.519392 didn't get you
+2017-05-14 16:22:55.081478 stop
+2017-05-14 16:31:40.901435 download audio na ja
+2017-05-14 16:33:51.477605 play audio maza
+2017-05-14 16:34:01.371054 play audio maza
+2017-05-14 16:34:14.201693 play audio maza
+2017-05-14 16:34:29.302719 play audio na ja
+2017-05-14 16:34:39.119629 terminate
+2017-05-14 16:38:11.647560 play audio of phir se barish
+2017-05-14 16:38:23.610946 play audio of phir se 12
+2017-05-14 16:38:30.582118 open folder music
+2017-05-14 16:38:50.159941 didn't get you
+2017-05-14 16:39:11.923257 didn't get you
+2017-05-14 16:39:24.868843 stop
+2017-05-14 16:49:35.923647 temperature in abohar
+2017-05-14 16:49:50.765093 didn't get you
+2017-05-14 16:50:01.515944 stop
+2017-05-14 16:57:36.811877 ii
+2017-05-14 16:57:47.549622 toss a coin
+2017-05-14 16:58:30.700248 for diet
+2017-05-14 16:58:44.230829 throw a dice
+2017-05-14 16:59:06.951893 stuff
+2017-05-14 17:55:50.976014 download lyrics dirty dancing
+2017-05-14 17:56:21.231020 terminate
+2017-05-14 18:18:43.343118 
+2017-05-14 18:18:47.079042 
+2017-05-14 18:18:50.418614 
+2017-05-14 18:18:53.667421 
+2017-05-15 02:08:23.349594 
+2017-05-15 02:08:26.542338 
+2017-05-15 02:08:29.651254 
+2017-05-15 02:08:32.725121 
+2017-05-15 02:08:35.752008 
+2017-05-15 02:08:38.792859 
+2017-05-15 02:08:41.964103 
+2017-05-15 02:08:44.994120 
+2017-05-15 02:08:48.029583 
+2017-05-15 02:09:40.905891 what is heads
+2017-05-15 03:13:56.513104 play audio mere rashke qamar
+2017-05-15 03:15:22.085263 play audio mere rashke qamar
+2017-05-15 03:15:33.292072 stop
+2017-05-15 03:37:54.118827 terminate
+2017-05-15 03:42:11.910000 search python 3 chatbot
+2017-05-15 03:44:52.641078 search python 3 4 port
+2017-05-15 03:45:16.933737 search python 3 chatbot
+2017-05-15 03:45:25.944515 didn't get you
+2017-05-15 03:45:37.012607 terminate
+2017-05-15 03:46:16.164495 search chat bot for python
+2017-05-15 03:46:30.202808 stop
+2017-05-15 03:47:04.962180 google india
+2017-05-15 03:47:15.652890 didn't get you
+2017-05-15 03:47:29.186163 terminate
+2017-05-15 03:49:38.353438 google python 3 chatbot inventions
+2017-05-15 03:49:44.974329 didn't get you
+2017-05-15 03:49:56.524748 stop
+2017-05-15 03:50:41.669987 didn't get you
+2017-05-15 03:50:54.046611 terminate
+2017-05-15 03:51:09.395443 google python 3 chatbot mentions
+2017-05-15 03:51:23.376921 didn't get you
+2017-05-15 03:51:37.344403 didn't get you
+2017-05-15 03:51:49.377768 stop
+2017-05-15 03:52:15.728271 search what should a virtual assistant contain
+2017-05-15 03:52:23.941054 didn't get you
+2017-05-15 03:52:35.088433 terminate
+2017-05-15 03:52:50.834451 search what features should a virtual assistant on a computer have
+2017-05-15 03:53:04.324853 stop
+2017-05-15 04:03:06.783546 browse whatsapp
+2017-05-15 04:03:16.591001 stop
+2017-05-15 04:04:32.390594 boys latest summer collection from myntra
+2017-05-15 04:04:44.481400 browse latest summer collection from myntra
+2017-05-15 04:04:55.690267 stop
+2017-05-15 04:09:58.017927 myntra sale
+2017-05-15 04:10:17.192163 browse myntra sale
+2017-05-15 04:10:28.706229 didn't get you
+2017-05-15 04:10:38.904918 stop
+2017-05-15 04:23:02.241929 didn't get you
+2017-05-15 04:23:27.307603 meaning of antagonize
+2017-05-15 04:24:17.258578 meaning of hostile
+2017-05-15 04:25:12.726280 didn't get you
+2017-05-15 04:25:27.742966 stop
+2017-05-15 05:07:02.172609 play audio gaddi waleya
+2017-05-15 05:07:28.744241 open folder music
+2017-05-15 05:07:36.358534 didn't get you
+2017-05-15 05:07:48.784126 stop
+2017-05-15 05:09:05.411281 didn't get you
+2017-05-15 05:39:48.387594 browse web dot whatsapp
+2017-05-15 05:40:05.560529 stop
+2017-05-15 09:36:30.517637 download video ae dil hai mushkil official video
+2017-05-15 09:38:32.164693 didn't get you
+2017-05-15 09:38:49.110923 didn't get you
+2017-05-15 09:39:00.968967 stop
+2017-05-15 09:42:56.898442 youtube python
+2017-05-15 09:43:06.940446 execute python
+2017-05-15 09:43:13.900331 didn't get you
+2017-05-15 09:43:32.865726 guide on retail mall
+2017-05-15 09:43:43.645040 stock
+2017-05-15 10:02:11.898885 download video ae dil hai mushkil official video
+2017-05-15 10:02:22.131228 stop
+2017-05-15 10:03:04.805239 library
+2017-05-15 10:03:15.273559 terminate
+2017-05-15 10:03:30.255460 free download video ae dil hai mushkil official video
+2017-05-15 10:06:12.842508 download video ae dil hai mushkil official video
+2017-05-15 10:08:44.964275 stop
+2017-05-15 10:10:31.755185 terminate
+2017-05-15 10:10:43.073025 tamil video channa mere official
+2017-05-15 10:10:54.458796 download video channa mere official
+2017-05-15 10:11:12.617506 terminate
+2017-05-15 10:11:26.437010 free download the download video channa mere
+2017-05-15 10:11:35.136588 stop
+2017-05-15 10:20:55.983341 terminate
+2017-05-15 10:21:31.134649 nancy download video channa mere official
+2017-05-15 10:21:41.885315 terminate
+2017-05-15 10:22:21.664445 download video channa mere official
+2017-05-15 10:25:48.892703 download video channa mere ya official
+2017-05-15 10:26:19.890409 didn't get you
+2017-05-15 10:26:33.672325 terminate
+2017-05-15 10:29:02.138272 download sanam re official video
+2017-05-15 10:29:15.724400 download video channa mere ya official video
+2017-05-15 10:29:43.490924 terminate
+2017-05-15 10:30:14.609918 download video sanam re official video
+2017-05-15 10:32:42.613950 stop
+2017-05-15 10:39:16.725221 download video ek baar raabta
+2017-05-15 10:40:31.512752 get me youtube results of it badhiya raabta
+2017-05-15 10:42:02.150580 didn't get you
+2017-05-15 10:42:18.679996 terminate
+2017-05-15 10:42:30.759394 open folder videos
+2017-05-15 10:42:42.017409 top
+2017-05-15 10:42:54.024092 play video ik vaari
+2017-05-15 10:43:17.676830 didn't get you
+2017-05-15 10:43:30.223021 stop
+2017-05-15 10:46:06.492268 terminate
+2017-05-15 11:12:13.313428 play video a dil hai mushkil
+2017-05-15 11:12:24.886764 play video ek dil hai
+2017-05-15 11:12:49.909017 play video sanam re
+2017-05-15 11:13:06.001663 didn't get you
+2017-05-15 11:13:25.770258 didn't get you
+2017-05-15 11:13:42.880581 terminate
+2017-05-15 11:25:47.600340 play video channa mere ram
+2017-05-15 11:26:15.029937 didn't get you
+2017-05-15 11:26:28.512286 rape video sanam re
+2017-05-15 11:26:49.175437 play video sanam re
+2017-05-15 11:27:16.266791 didn't get you
+2017-05-15 11:27:36.048672 didn't get you
+2017-05-15 11:28:49.018908 play video sanam re
+2017-05-15 11:29:12.323023 play video gana dangal
+2017-05-15 11:29:46.474170 play video airlift
+2017-05-15 11:30:23.288991 didn't get you
+2017-05-15 11:30:39.674844 tell me the date
+2017-05-15 11:30:54.940713 didn't get you
+2017-05-15 11:35:52.962121 play video aaj kal tere mere
+2017-05-15 11:36:07.673186 didn't get you
+2017-05-15 11:36:49.407356 play video at dil hai mushkil
+2017-05-15 11:37:00.360774 play video airlift
+2017-05-15 11:37:21.159598 didn't get you
+2017-05-15 11:37:37.710079 didn't get you
+2017-05-15 11:37:52.902804 terminate
+2017-05-15 12:15:59.776436 download whatsapp
+2017-05-15 12:16:10.242712 how to update whatsapp
+2017-05-15 12:16:27.496948 didn't get you
+2017-05-15 12:16:51.074929 browse web dot whatsapp
+2017-05-15 12:17:04.018062 stop
+2017-05-16 02:41:32.315028 play audio gadi waleya
+2017-05-16 02:42:33.183647 play audio gadi waaleya
+2017-05-16 02:42:40.921641 q
+2017-05-16 02:44:50.356623 play audio gadi waaleya
+2017-05-16 02:45:04.604855 play audio gadi waleya
+2017-05-16 02:45:10.521181 quit
+2017-05-16 02:52:17.148377 play audio dekh lena
+2017-05-16 02:55:19.254089 play audio dekh lena
+2017-05-16 02:55:54.029818 play video airlift
+2017-05-16 02:56:12.852690 play video soch na sake
+2017-05-16 02:56:28.484952 open folder videos
+2017-05-16 02:56:34.085441 stop
+2017-05-16 02:56:50.108675 play video unmistakable creative
+2017-05-16 02:57:01.420278 stop
+2017-05-16 02:57:54.319073 emanate
+2017-05-16 02:58:03.573812 terminate
+2017-05-16 02:58:20.002434 browse whatsapp web
+2017-05-16 02:58:32.564219 play video soch na sake
+2017-05-16 02:58:57.370354 p***
+2017-05-16 02:59:08.512657 pause
+2017-05-16 02:59:42.458435 in folder music
+2017-05-16 02:59:49.737219 play video baarish
+2017-05-16 03:00:08.708425 play audio barish
+2017-05-16 03:00:21.388567 play audio barish
+2017-05-16 03:00:31.289290 play audio barish
+2017-05-16 03:00:41.864332 play audio barish
+2017-05-16 03:00:51.239008 play audio dil
+2017-05-16 03:01:13.921360 terminate
+2017-05-16 03:05:39.546483 play audio delhi
+2017-05-16 03:06:08.785349 play audio dil
+2017-05-16 03:09:22.631238 video
+2017-05-16 03:09:39.135033 play video airlift
+2017-05-16 03:10:03.460302 terminate
+2017-05-16 03:10:21.019727 video unmistakable creative
+2017-05-16 03:10:45.117936 play video unmistakable creative
+2017-05-16 03:11:23.997633 terminate
+2017-05-16 03:11:37.394730 youtube pycharm
+2017-05-16 03:11:46.653866 execute python
+2017-05-16 03:11:58.498716 execute python
+2017-05-16 03:12:09.017032 execute pycharm
+2017-05-16 03:12:18.159422 stop
+2017-05-16 03:12:40.660847 unfolded videos
+2017-05-16 03:12:53.098942 open folder videos
+2017-05-16 03:13:14.444213 open folder hindi
+2017-05-16 03:13:28.235025 open folder hindi videos
+2017-05-16 03:14:21.782784 play video sanam
+2017-05-16 03:14:44.383116 video airlift
+2017-05-16 03:14:56.466459 play video airlift
+2017-05-16 03:15:20.574293 cabinetry baba
+2017-05-16 03:15:38.386987 play video airlift
+2017-05-16 03:15:55.918716 play video airlift
+2017-05-16 03:16:07.783854 terminate
+2017-05-16 03:16:49.859551 play video soch na sake
+2017-05-16 03:17:06.643596 play video soch na sake
+2017-05-16 03:17:29.278725 didn't get you
+2017-05-16 03:21:15.897464 play video girl
+2017-05-16 03:21:33.525594 play video kitne dafa
+2017-05-16 03:21:45.270251 play video kitne dafe
+2017-05-16 03:21:57.804855 how many
+2017-05-16 03:22:08.137751 terminate
+2017-05-16 03:26:53.386966 sample raghav
+2017-05-16 03:27:04.676750 open file raghav
+2017-05-16 03:27:33.235115 terminate
+2017-05-16 03:38:51.469487 open web whatsapp
+2017-05-16 03:39:04.298041 browse whatsapp.com
+2017-05-16 03:39:22.149252 top
+2017-05-16 03:39:33.233549 didn't get you
+2017-05-16 03:39:44.871749 stop
+2017-05-16 03:42:23.660639 liquid calculator
+2017-05-16 03:42:34.366908 execute calculator
+2017-05-16 03:42:48.168557 stop
+2017-05-16 03:43:31.898812 open folder jaldhara
+2017-05-16 03:46:24.411666 open folder jaldhara
+2017-05-16 03:46:35.242986 open folder photos
+2017-05-16 03:47:22.190552 open folder sv
+2017-05-16 03:47:53.940027 stop
+2017-05-16 03:49:26.105119 terminate
+2017-05-16 03:50:08.667296 open folder hindi
+2017-05-16 03:50:19.115699 terminate
+2017-05-16 03:52:20.630666 open folder photos
+2017-05-16 03:52:47.841683 open folder hindi
+2017-05-16 03:52:57.229227 open folder english
+2017-05-16 03:53:31.445108 play video alan walker
+2017-05-16 03:53:54.372557 terminate
+2017-05-16 03:59:22.236072 how is hyderabad to live
+2017-05-16 03:59:36.929271 google how is hyderabad to live as a place
+2017-05-16 03:59:44.984282 didn't get you
+2017-05-16 03:59:55.609445 terminate
+2017-05-16 04:04:31.789618 golden music
+2017-05-16 04:04:41.902116 open folder music
+2017-05-16 04:04:50.776943 play audio dariya
+2017-05-16 04:14:53.614018 browse whatsapp web
+2017-05-16 04:15:08.499864 didn't get you
+2017-05-16 04:15:20.138383 terminate
+2017-05-16 04:53:50.333786 terminate
+2017-05-16 05:18:27.577378 connection problem
+2017-05-17 04:39:58.849971 browse facebook
+2017-05-17 04:40:28.583292 didn't get you
+2017-05-17 04:41:02.053035 open file requirements
+2017-05-17 04:43:47.881079 open phone requirements
+2017-05-17 04:44:36.808912 open file requirements
+2017-05-17 04:45:07.034499 open coil microphone
+2017-05-17 04:45:20.098794 didn't get you
+2017-05-17 04:45:33.711040 didn't get you
+2017-05-17 04:45:51.555408 open file microphone
+2017-05-17 04:46:21.663353 didn't get you
+2017-05-17 04:46:36.762161 stop
+2017-05-17 04:46:53.467160 download video n**** n**** n****
+2017-05-17 04:47:05.823161 download video n**** n****
+2017-05-17 04:47:16.666730 stock
+2017-05-17 04:47:37.330621 didn't get you
+2017-05-17 04:47:50.894363 google n**** n****
+2017-05-17 04:48:16.577780 scope
+2017-05-17 04:48:33.991856 get me youtube results of gangsta rap n**** n**** n****
+2017-05-17 04:50:02.182890 terminate
+2017-05-17 04:52:36.958720 play video gangster app
+2017-05-17 04:52:47.947115 play video gangsta rap
+2017-05-17 04:52:58.965942 terminate
+2017-05-24 12:13:47.142817 exit
+2017-05-24 12:14:08.916822 browse gmail
+2017-05-24 15:08:47.290050 browse youtube
+2017-05-24 15:08:54.926396 browse youtube
+2017-05-24 15:09:00.694794 browse youtube
+2017-05-24 15:09:06.045953 browse youtube
+2017-05-27 03:47:13.374871 youtube results of girl in the city
+2017-05-27 03:47:44.369934 get youtube results of girl in the city isharo mein
+2017-05-27 03:48:53.922417 terminate
+2017-05-27 06:28:14.184373 play video girl in the city
+2017-05-27 06:28:27.677841 terminate
+2017-05-27 14:42:43.505197 get me youtube result of gilmore girls
+2017-05-27 14:43:20.766866 get youtube results of gilmore girls
+2017-05-27 14:45:36.585152 download audio isharo mein
+2017-05-27 14:46:32.634566 i want to say something
+2017-05-27 14:46:47.132599 temperature in egypt
+2017-05-27 14:47:07.002936 stop
+2017-05-27 14:47:26.938068 meaning of colossal
+2017-05-27 14:47:53.637190 stop
+2017-05-27 14:48:22.918047 download lyrics of trap queen
+2017-05-27 14:48:22.931199 download lyrics of trap queen
+2017-05-27 14:48:34.968249 stop
+2017-05-27 14:49:57.880173 browse youtube
+2017-05-27 14:50:17.336715 submission
+2017-05-27 14:50:30.123981 message
+2017-05-27 14:50:41.808370 open folder wallpapers
+2017-05-27 14:50:59.690602 terminate
+2017-05-27 15:51:55.060347 beautiful girl song mere rashke qamar
+2017-05-27 15:52:09.177165 get youtube results of mere rashke qamar
+2017-05-27 15:54:26.333437 open folder videos
+2017-05-27 15:54:53.999596 didn't get you
+2017-05-27 15:55:12.440656 stop
+2017-05-27 15:55:25.438681 play video mere rashke qamar
+2017-05-27 15:55:37.788363 terminator
+2017-05-27 15:55:45.939825 terminate
+2017-05-28 06:12:31.575353 open file address
+2017-05-28 06:13:07.487305 open file error s
+2017-05-28 06:13:19.181388 open file error
+2017-05-28 06:13:41.778070 didn't get you
+2017-05-28 06:13:54.313081 terminate
+2017-05-28 06:31:17.089262 meaning of contingency
+2017-05-29 02:32:08.669914 open project proposal
+2017-05-29 02:32:19.617890 open file project proposal
+2017-05-29 09:48:47.914282 play audio salamat
+2017-05-29 09:50:01.725845 terminate terminate
+2017-05-29 09:50:17.213243 terminate
+2017-06-05 14:41:46.068161 didn't get you
+2017-06-05 14:42:04.372274 open folder music
+2017-06-05 14:42:28.852376 play audio jo tere sang
+2017-06-05 14:42:38.826939 didn't get you
+2017-06-05 14:43:02.558004 didn't get you
+2017-06-05 14:43:12.556311 get youtube results of
+2017-06-05 14:43:29.467658 youtube results of hyderabad lifestyle
+2017-06-05 14:45:16.605267 open google
+2017-06-05 14:45:24.478697 open facebook
+2017-06-05 14:45:38.847982 didn't get you
+2017-06-05 14:45:49.533317 search facebook
+2017-06-05 14:46:17.306122 open facebook.com
+2017-06-05 14:46:28.426566 browse facebook.com
+2017-06-05 14:46:58.990815 terminate
+2017-06-05 14:51:02.014326 irc
+2017-06-05 14:52:07.167555 browser irctc
+2017-06-05 14:52:39.855139 browse irctc
+2017-06-05 14:52:53.695304 didn't get you
+2017-06-05 14:53:05.776499 stop
+2017-06-05 14:54:42.638012 minute
+2017-06-07 14:26:32.223318 didn't get you
+2017-06-07 14:26:42.808460 play audio game
+2017-06-07 14:26:52.416571 didn't get you
+2017-06-07 14:27:09.412875 didn't get you
+2017-06-07 14:27:22.245772 play audio file
+2017-06-07 14:27:29.714033 eminent
+2017-06-07 14:27:37.906649 terminate
+2017-06-07 14:28:26.124118 play audio player
+2017-06-07 14:28:31.885230 didn't get you
+2017-06-07 14:28:44.091140 didn't get you
+2017-06-07 15:00:34.661256 terminator
+2017-06-07 15:00:43.922884 terminate
+2017-06-10 04:49:35.464633 didn't get you
+2017-06-10 04:49:55.198591 get youtube results of despacito
+2017-06-10 04:53:18.152467 youtube results of despacito
+2017-06-10 04:55:46.561113 get youtube results of despacito
+2017-06-10 04:56:30.720410 play video despacito
+2017-06-10 04:56:44.267214 didn't get you
+2017-06-10 04:57:00.512486 get youtube results of official video despacito
+2017-06-10 04:59:36.266787 didn't get you
+2017-06-10 04:59:49.977663 play video despacito
+2017-06-10 05:00:58.951717 did star
+2017-06-10 05:01:10.016415 play video despacito
+2017-06-10 05:01:23.519158 terminate
+2017-06-10 05:06:28.732592 play video that stuff
+2017-06-10 05:06:43.116275 play video despacito
+2017-06-10 05:06:58.636201 didn't get you
+2017-06-10 05:07:12.613274 top
+2017-06-10 05:07:23.297978 stop
+2017-06-10 05:22:57.025627 browse music player.com
+2017-06-10 05:23:25.768251 search music please
+2017-06-10 05:23:37.038200 stop
+2017-06-10 05:41:16.035673 play video despacito
+2017-06-10 05:41:30.876320 entertainment
+2017-06-10 05:41:45.800445 play videos of p**** to
+2017-06-10 05:41:58.911781 play video despacito
+2017-06-10 05:42:19.710389 stop
+2017-06-10 05:47:06.648191 results of cheap thrills official video
+2017-06-10 05:47:22.334446 get youtube results of cheap thrills official video
+2017-06-10 05:48:38.058297 get youtube results of cheap thrills official video vevo
+2017-06-10 05:52:14.342147 get youtube results of cheap thrills official video vevo
+2017-06-10 05:53:08.524272 play video cheap thrills
+2017-06-10 05:53:29.252115 play video cheap thrills
+2017-06-14 05:35:14.933589 get youtube results of despecito remix
+2017-06-14 05:35:45.489045 get youtube results of despecito remix
+2017-06-14 05:36:04.742424 download audio despecito remix
+2017-06-14 05:36:48.129461 download audio despecito remix
+2017-06-15 05:06:13.722147 play video despecito
+2017-06-15 05:06:45.605011 play video despecito
+2017-06-15 05:07:02.908982 play video despecito
+2017-06-15 05:07:05.043715 play video despecito
+2017-06-15 12:17:48.561537 browse cricbuzz.com
+2017-06-15 12:17:51.047745 browse cricbuzz.com
+2017-06-15 12:17:53.152635 browse cricbuzz.com
+2017-06-15 12:17:54.769886 browse cricbuzz.com
+2017-06-15 12:17:56.355183 browse cricbuzz.com
+2017-06-15 12:17:57.931404 browse cricbuzz.com
+2017-06-15 12:18:00.156861 browse cricbuzz.com
+2017-06-15 12:18:01.841136 browse cricbuzz.com
+2017-06-15 12:18:03.727369 browse cricbuzz.com
+2017-06-15 12:18:05.428841 browse cricbuzz.com
+2017-06-15 12:18:07.001860 browse cricbuzz.com
+2017-06-15 12:18:08.722363 browse cricbuzz.com
+2017-06-15 12:18:10.330913 browse cricbuzz.com
+2017-06-15 12:18:11.880505 browse cricbuzz.com
+2017-06-15 12:18:13.675584 browse cricbuzz.com
+2017-06-15 12:18:15.346725 browse cricbuzz.com
+2017-06-15 12:18:17.132035 browse cricbuzz.com
+2017-06-15 12:18:19.037226 browse cricbuzz.com
+2017-06-15 12:18:20.857748 browse cricbuzz.com
+2017-06-15 12:18:22.701464 browse cricbuzz.com
+2017-06-15 12:18:24.338346 browse cricbuzz.com
+2017-06-15 12:18:26.056323 browse cricbuzz.com
+2017-06-15 12:18:27.708074 browse cricbuzz.com
+2017-06-15 12:18:29.538016 browse cricbuzz.com
+2017-06-15 12:18:31.634513 browse cricbuzz.com
+2017-06-15 12:18:33.764019 browse cricbuzz.com
+2017-06-15 12:18:35.740039 browse cricbuzz.com
+2017-06-15 16:32:46.997933 download
+2017-06-15 16:32:56.122747 get youtube results of anaconda nicki minaj
+2017-06-15 16:33:25.439565 get ready results of anaconda nicki minaj
+2017-06-15 16:33:38.384883 get youtube results of anaconda nicki minaj
+2017-06-15 17:08:01.868800 open folder music
+2017-06-15 17:08:09.181712 chakravartin
+2017-06-15 17:11:47.586403 get youtube results of anaconda
+2017-06-15 17:14:13.512783 did little russian anaconda
+2017-06-15 17:14:21.354966 get matric result of anaconda
+2017-06-15 17:14:28.949331 get youtube results of anaconda
+2017-06-15 17:21:27.834769 open folder videos
+2017-06-15 17:29:18.571432 hello world
+2017-06-16 08:59:13.579081 youtube results of anaconda
+2017-06-16 09:16:30.057864 get youtube results of naina dangal
+2017-06-16 09:16:55.951003 get youtube results of anaconda nicki minaj
+2017-06-16 09:18:25.937315 play video anaconda
+2017-06-16 09:19:25.806894 stop
+2017-06-16 09:31:37.408671 play audio in youtube
+2017-06-16 15:08:15.592687 play video soch na sake
+2017-06-16 15:08:46.402682 terminate
+2017-06-17 05:58:45.887610 didn't get you
+2017-06-17 06:53:50.032377 youtube results of moka moka
+2017-06-17 06:59:37.531665 terminator
+2017-06-17 06:59:45.547813 didn't get you
+2017-06-17 09:04:29.838542 download lyrics anaconda
+2017-06-17 09:04:47.660639 didn't get you
+2017-06-17 10:47:47.777787 terminate
+2017-06-17 17:08:04.985926 video urmila ka
+2017-06-17 17:08:54.873837 play video ek mulaqat
+2017-06-17 17:09:15.601184 play video ek mulaqat
+2017-06-17 17:09:30.561614 didn't get you
+2017-06-17 17:09:52.929095 terminate
+2017-06-20 09:54:29.913208 didn't get you
+2017-06-20 09:55:30.274723 download audio ik vaaari aa
+2017-06-20 09:55:56.885371 download audio ik vaaari aa
+2017-06-20 09:59:26.116236 youtube results of ed sheeran shape
+2017-07-05 02:40:36.211789 get youtube results of attention
+2017-07-05 02:43:05.156584 youtube results of attention
+2017-07-05 02:44:18.299139 get youtube results of we don't talk anymore
+2017-07-05 02:45:51.151675 didn't get you
+2017-07-05 02:46:01.480016 terminate
+2017-07-05 02:50:37.305846 results of ek ajnabee haseena se mulakat ho gayi remix
+2017-07-05 02:50:49.732057 get youtube results of 10th ajnabee haseena se mulakat ho gayi remake
+2017-07-05 02:51:53.105335 movie haseena se mulakat ho gayi team-mate double mint
+2017-07-05 02:52:07.325154 ek ajnabee haseena se mulakat ho gayi doublemint
+2017-07-05 02:52:21.823506 get youtube results of ek ajnabee haseena se mulakat ho gayi gmail double mint
+2017-07-05 02:53:20.904699 terminate
+2017-07-05 03:05:42.021824 videos
+2017-07-05 03:05:50.488970 open folder videos
+2017-07-05 03:06:07.138271 didn't get you
+2017-07-05 03:06:18.718089 stop
+2017-07-05 03:08:07.272466 get youtube results of ford vs ford
+2017-07-05 03:09:45.735971 didn't get you
+2017-07-05 03:09:56.925012 play video ford vs ford
+2017-07-05 03:10:04.739551 open folder videos
+2017-07-05 03:10:21.426782 permanent
+2017-07-05 03:10:30.806813 didn't get you
+2017-07-05 03:10:40.475113 didn't get you
+2017-07-05 03:10:50.641936 terminate
+2017-07-05 03:33:26.250870 youtube results of something just like this
+2017-07-05 03:35:34.810109 didn't get you
+2017-07-05 03:35:46.001749 play video something just like this
+2017-07-05 03:35:53.683482 terminate
+2017-07-05 03:36:19.367992 play video something just like this
+2017-07-05 03:36:27.216476 permanent
+2017-07-05 03:36:35.911764 open folder videos
+2017-07-05 03:36:46.245781 terminate
+2017-07-07 06:51:40.841175 didn't get you
+2017-07-07 06:52:12.364627 terminate
+2017-07-11 03:31:46.341866 download lyrics something just like this
+2017-07-11 03:31:56.543826 terminate
+2017-07-12 03:58:00.341709 up results of shopkins
+2017-07-12 03:58:09.473817 get youtube results of umbrella
+2017-07-12 03:58:30.795236 youtube results of umbrella
+2017-07-12 03:59:47.354733 didn't get you
+2017-07-12 03:59:56.445449 terminate
+2017-07-12 06:16:17.883723 download audio thodi der of girls
+2017-07-12 06:16:49.671852 play audio thodi der
+2017-07-12 06:17:00.176591 terminate
+2017-07-12 06:17:37.278848 play audio thodi der
+2017-07-12 09:41:16.814034 ullu ka patha
+2017-07-12 09:41:26.454028 download audio ullu ka patha
+2017-07-12 09:41:55.716184 play audio lokamat
+2017-07-12 09:42:05.433616 play audio ullu ka patha
+2017-07-12 10:11:03.484719 audio sniper
+2017-07-12 10:11:12.830100 play audio sniper
+2017-07-12 16:04:55.198287 video alibaba
+2017-07-12 16:05:15.554933 ug results in kolkata jagga jasoos
+2017-07-12 16:05:26.122694 store
+2017-07-12 16:05:37.338051 didn't get you
+2017-07-12 16:05:55.946929 did you give results of ullu ka patha jagga jasoos
+2017-07-12 16:06:10.874476 get youtube results of ullu ka patha jagga jasoos
+2017-07-12 16:08:06.752999 play video
+2017-07-12 16:27:46.616651 didn't get you
+2017-07-12 16:28:01.240924 play video ullu ka patha jagga jasoos
+2017-07-12 16:28:11.433049 play video jagga jasoos
+2017-07-12 16:28:21.847285 stop
+2017-07-12 16:28:38.821937 didn't get you
+2017-07-12 16:28:48.061207 didn't get you
+2017-07-12 17:44:33.025710 youtube results of patta patta
+2017-07-12 17:45:43.100064 play video
+2017-07-12 17:45:57.873572 play video something just like this
+2017-07-12 17:46:37.160639 terminate
+2017-07-12 17:49:16.689871 download audio galti se mistake
+2017-07-12 17:50:27.190228 download audio gangland
+2017-07-12 17:51:04.284834 play audio bhajan
+2017-07-12 17:51:14.056614 play audio gangland
+2017-07-12 17:51:59.641218 video results of gangland official video
+2017-07-12 17:52:24.751126 get youtube results of gangland official video
+2017-07-13 03:05:55.026269 open folder music
+2017-07-13 03:06:06.764166 terminate
+2017-07-13 03:06:17.923795 play video just like this
+2017-07-13 03:06:27.235861 stop
+2017-07-13 03:09:17.178972 play video something just like this
+2017-07-13 03:10:48.059896 download lyrics something just like this
+2017-07-13 03:11:11.155426 stock
+2017-07-13 03:11:25.716064 stop stop
+2017-07-13 04:25:48.224187 play audio ullu ka patha
+2017-07-13 04:26:01.409135 play audio clip car
+2017-07-13 04:26:11.086776 play audio through car
+2017-07-13 04:26:18.495391 play audio only
+2017-07-13 04:26:39.738399 play audio only
+2017-07-13 04:27:25.372363 audio only
+2017-07-13 04:27:36.319634 hello audio u l l u
+2017-07-13 05:40:06.106599 didn't get you
+2017-07-13 05:42:38.719252 terminate
+2017-07-15 02:36:57.480541 play audio u l l u k a b
+2017-07-15 02:37:06.562428 stop
+2017-07-15 02:37:53.017072 u l l u k a p a t h a
+2017-07-15 02:38:03.739670 stop
+2017-07-15 02:38:12.573589 2 minute
+2017-07-15 02:38:24.083890 terminate
+2017-07-15 10:39:37.971986 play video ek ajnabi haseena
+2017-07-15 10:39:47.792194 play video haseena
+2017-07-16 07:25:23.641394 download audio demons
+2017-07-16 07:25:57.819984 download audio raabta
+2017-07-19 17:34:45.757011 munna michael
+2017-07-19 17:34:57.649090 download audio main hoon munna michael
+2017-07-19 17:35:35.321214 play audio main hoon
+2017-07-19 17:36:29.581550 terminate
+2017-07-27 12:14:12.891569 download audio kismat ammy virk
+2017-07-27 12:14:44.421536 download audio kismat ammy virk
+2017-07-30 08:24:38.895009 play audio behti hawa sa tha woh
+2017-07-30 08:24:48.375837 didn't get you
+2017-07-30 08:25:09.982425 play audio behti hawa
+2017-07-30 08:25:24.072107 download audio behti hawa sa
+2017-07-30 08:29:27.063635 behti hawa sa
+2017-07-30 08:29:40.019720 play audio behti hawa sa
+2017-07-30 08:30:02.108107 didn't get you
+2017-07-30 08:30:37.375587 play audio vadios
+2017-07-31 04:02:23.558113 audio bibi bamb aa
+2017-07-31 04:02:33.675362 download audio bibi bamb
+2017-07-31 04:03:34.737120 play audio bibi bamb
+2017-07-31 04:03:48.587024 didn't get you
+2017-08-04 01:57:25.333046 download audio musafir jagga jasoos
+2017-08-04 01:57:58.441309 audio musafir
+2017-08-04 01:58:09.536832 play audio musafir
+2017-08-04 01:58:41.671521 terminate
+2017-08-04 02:32:07.219318 murshida
+2017-08-04 02:32:18.050745 download audio murshida
+2017-08-04 02:32:52.621237 play audio murshida
+2017-08-04 02:33:05.741915 terminate
