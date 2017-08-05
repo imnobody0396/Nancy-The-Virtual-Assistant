@@ -1,6 +1,5 @@
 Nancy: The Virtual Assistant (For Ubuntu)
 =
-# Nancy-VA--Ubuntu
 
 ## Team Name
 ```
